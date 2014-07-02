@@ -15,4 +15,5 @@ linker -  mesh making
 
 우리가 살고 있는 안 시간은 수평선상에서 흐르는 것 같지만 사실 그것도 네트워크 같다. 내가 마주치는 네트워크를 고찰하기 위해 이 프로그램을 만든다.
 
+[test server](http://shielded-ravine-9928.herokuapp.com/)
 

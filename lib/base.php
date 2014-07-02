@@ -17,5 +17,7 @@ class OC {
 	*/
 	public static function handleRequest() {
 		echo "linker request";
+        echo "<br />";
+        echo "add view";
 	}
 }
