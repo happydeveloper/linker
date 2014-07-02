@@ -1,15 +1,15 @@
 <?php
 
-//echo "linker";
 /**
 *
 *
 */
 
-try {
-	//import lib
 
-	echo "linker";
+try {
+	require_once 'lib/base.php';
+
+	OC::handleRequest();
 } catch (Exception $ex) {
 	//error logger
 
