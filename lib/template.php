@@ -13,12 +13,12 @@ class Template {
 	}
 
 	public function __construct($file, $args = array()) {
-		$this->file = $file;
+		$this->files = $file;
 		$this->args = $args;
 	}
 
 	public function render()
 	{
-		include $this->file;
+		include $this->files;
 	}
 }
