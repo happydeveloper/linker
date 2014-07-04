@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FIRSTNAME} !-f
+RewriteCond %{REQUEST_FIRSTNAME} !-f
+RewriteRule ^(.*)$ /index.php
